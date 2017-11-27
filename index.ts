@@ -1,0 +1,1 @@
+export { ShareAppModule } from './src/app/app.module';
